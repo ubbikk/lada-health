@@ -8,6 +8,8 @@ Search sources/user-messages.md for first-person/partner reports and sources/tra
 
 ## Evidence and maintenance
 
+- Store new medical documents and final handouts in `docs/`. Maintain the **Documents index** in `HEALTH_CONTEXT.md` using its instructions: link each document, explain its contents and evidence type, and keep the indexed copy current. Preserve original records and source archives.
+
 - Distinguish direct patient reports, partner reports, document-verified information, earlier AI transcriptions and hypotheses.
 - Preserve exact values, units, dates, collection timing and uncertainty. A prescription is not proof of use; a proposed test is not a completed test; an AI suggestion is not a diagnosis or clinician plan.
 - Keep current medicines separate from historical regimens. Never silently carry old doses forward.

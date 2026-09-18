@@ -1,0 +1,35 @@
+from pathlib import Path
+p=Path('sources/updates-2026-09-14.md');s=p.read_text()
+new='''## U20260914-12 — returned from allergist and gastroenterologist; five original photographs
+
+Dmytro reports they have just returned from hospital after seeing an allergist and a gastroenterologist. Requests medication prioritization, safety/evidence review and a practical adherence document. No new actual-use details supplied in this message. Five photographs visually inspected and preserved unchanged in [source archive](attachments/consultations-2026-09-14/). Photos 1–2 reproduce the September 14 allergist prescription already recorded in U20260914-01; no new independent reaction or prescription event counted.
+
+New Dobrobut gastroenterologist report: **September 14, 2026, 15:33**, physician **Лабунець Роман Віталійович**, report **2197454**. [Page 1](../docs/2026-09-14-dobrobut-gastroenterologist-page-1.jpg), [page 2](../docs/2026-09-14-dobrobut-gastroenterologist-page-2.jpg). Codes K29 gastritis/duodenitis and K63.9 unspecified intestinal disease. Narrative questions active gastritis / H. pylori and SIBO; describes functional dyspepsia with postprandial and epigastric pain syndromes. Copies allergy/asthma narrative from allergist. These are clinician assessments/possibilities, not endoscopy-, microbiology- or breath-test-confirmed diagnoses.
+
+| Medicine | Exact printed prescription |
+|---|---|
+| Omez / omeprazole 20 mg | 1 capsule in morning 30 minutes before food; 14 days, September 14–27. |
+| Quamatel / famotidine 40 mg | 1 tablet before sleep; 14 days, September 14–27. Conflicts with allergist's 20 mg twice daily for September 14–20. No evidence supplied that both should be combined or that replacement was explicitly discussed. |
+| Domrid SR / domperidone prolonged release 30 mg | 1 tablet 15 minutes before food once daily; 28 days, September 18–October 15. Printed parenthetical question marks and handwriting about nausea/bloating do not establish clear as-needed instructions or explanation for delayed start. |
+
+Recommended tests: quantitative fecal H. pylori antigen (comment: no PPIs including Omez/pantoprazole/esomeprazole for 3 weeks), fecal occult blood (hemoglobin/transferrin), quantitative fecal calprotectin, detailed CBC, ferritin, serum iron, 25-OH vitamin D, cyanocobalamin/B12, folic acid, immunoglobulin G (generic wording; not evidence of a food-specific IgG panel). Dietitian consultation requested. Repeat gastroenterology by October 12 based on results. Listed September 14 deadlines do not establish completion; existing CBC and urine results are separate verified documents.
+
+Advice: adequate nutrition with three meals daily, no food three hours before sleep, exclude allergenic foods; text labels persimmon/pomegranate/grapes as stone fruits. Fluid regimen up to **1.2 L/day**, without individualized rationale printed. Separate [generic gastritis/ulcer diet sheet](../docs/2026-09-14-dobrobut-gastritis-diet.jpg) lists four to five small meals and broad food recommendations/restrictions for 8–10 days followed by expansion. Does not establish a peptic-ulcer diagnosis, personally tolerated foods, or actual fluid restriction/adherence. No detailed refeeding, thiamine or electrolyte-monitoring plan visible.
+
+Independent review created: [English review](../docs/2026-09-14-prescription-review.md) and [Ukrainian daily schedule](../docs/2026-09-14-lada-medication-schedule.docx). The latter preserves written baseline doses, separates unresolved Quamatel/Domrid choices and Omez/testing timing, and flags undefined device doses and steroid ending plan. These are assistant-authored aids, not new clinician orders or proof of use. Ukrainian assumed to match existing handouts while language clarification remains unanswered. Current Ukrainian Domrid SR manufacturer leaflet, revision December 25, 2025, explicitly limits treatment to one week; printed 28-day course flagged for review. No treatment change, test completion or clinician contact is claimed.
+
+'''
+s=s.replace('# September 14, 2026 — updates\n\n','# September 14, 2026 — updates\n\n'+new,1);p.write_text(s)
+p=Path('HEALTH_CONTEXT.md');s=p.read_text()
+entry='''**September 14 — returned after allergist and gastroenterologist visits:** Five original photographs supplied. Gastroenterologist provisionally describes gastritis/H. pylori?, functional dyspepsia and SIBO?; prescribes Omez **20 mg each morning ×14 days**, Quamatel **40 mg at bedtime ×14 days**, and Domrid SR **30 mg daily ×28 days starting September 18**. Quamatel conflicts with allergist's **20 mg twice daily ×7 days**; replacement vs addition not clarified. H. pylori stool test requests **3 weeks without PPIs**, conflicting with immediate Omez timing unless sampling already addressed. Printed **1.2 L/day** fluid limit has no supplied rationale. Actual medication use, tests beyond existing results and verbal nutrition plan remain unknown. Original reports and assistant-authored medication schedule/review indexed below; review flags Domrid duration against the Ukrainian leaflet's one-week limit, undefined device doses and missing steroid ending plan. [U20260914-12](sources/updates-2026-09-14.md#u20260914-12--returned-from-allergist-and-gastroenterologist-five-original-photographs)
+
+'''
+s=s.replace('## Start here\n\n','## Start here\n\n'+entry,1)
+rows='''| 2026-09-14 | Gastroenterologist consultation — [page 1](docs/2026-09-14-dobrobut-gastroenterologist-page-1.jpg), [page 2](docs/2026-09-14-dobrobut-gastroenterologist-page-2.jpg) | Original Dobrobut photographs, Роман Лабунець, 15:33. Provisional GI diagnoses, tests, Omez/Quamatel/Domrid prescriptions and diet/fluid advice. Prescribing conflicts documented in U20260914-12; not proof of use or completed tests. |
+| 2026-09-14 | [Generic gastritis diet sheet](docs/2026-09-14-dobrobut-gastritis-diet.jpg) | Original Dobrobut lifestyle/food handout. Generic ulcer/gastritis guidance; not evidence of confirmed ulcer, personal food safety or a nutrition-rehabilitation plan. |
+| 2026-09-14 | [Lada medication schedule](docs/2026-09-14-lada-medication-schedule.docx) | Assistant-prepared Ukrainian adherence sheet with sample times, priorities, written course dates and explicit unresolved dose/duplicate/test issues. Not a reconciled clinician prescription; actual starts/today's doses unconfirmed. |
+| 2026-09-14 | [Prescription review](docs/2026-09-14-prescription-review.md) | Assistant-authored English appraisal with current primary-source links: medicine priority, Quamatel duplication, Domrid duration, antihistamine overlap, steroid/device instructions, H. pylori testing and nutrition gaps. Advice, not events or established diagnoses. |
+'''
+s=s.replace('| --- | --- | --- |\n','| --- | --- | --- |\n'+rows,1)
+s=s.replace('## Update log\n','## Update log\n\n- **2026-09-14:** Archived five supplied consultation photographs, indexed new gastroenterologist/diet records, recorded U20260914-12 and added Ukrainian medication sheet plus English evidence review. Prescriptions remain distinct from actual use; conflicting instructions explicitly retained.\n',1)
+p.write_text(s)
