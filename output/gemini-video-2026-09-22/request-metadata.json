@@ -1,0 +1,7 @@
+{
+  "model": "gemini-3.1-pro-preview",
+  "timestamp_utc": "2026-09-22T10:54:14.406791+00:00",
+  "video": "docs/2026-09-22-lada-video-original.mp4",
+  "method": "generateContent inline MP4 with audio",
+  "prompt": "prompt.txt"
+}
