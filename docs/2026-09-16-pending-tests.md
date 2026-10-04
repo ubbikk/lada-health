@@ -1,6 +1,6 @@
 # Lada — pending tests and results
 
-Updated September 17, 2026. Working checklist requested by Dmytro; not a completed laboratory order or proof that tests were performed. Tick only after collection/performance and record the date; result receipt is a separate step.
+C4/C1-inhibitor section updated September 25 and tryptase section September 24, 2026; other items last maintained September 17 and may have later updates in HEALTH_CONTEXT.md. Working checklist requested by Dmytro; not a completed laboratory order or proof that tests were performed. Tick only after collection/performance and record the date; result receipt is a separate step.
 
 ## First priority: current nutrition, fluid and breathing concerns
 
@@ -11,14 +11,15 @@ Updated September 17, 2026. Working checklist requested by Dmytro; not a complet
 
 ## Swelling and suspected systemic allergic reactions
 
-- [ ] **Complement C4 (компонент комплементу C4).**
-- [ ] **C1 esterase inhibitor concentration / antigen (кількісний рівень C1-інгібітора).**
-- [ ] **C1 esterase inhibitor functional activity (функціональна активність C1-інгібітора).**
+- [x] **Complement C4:** 0.30 g/L (0.12–0.41).
+- [x] **C1 esterase inhibitor concentration / antigen:** 21.7 mg/dL (15–35).
+- [x] **C1 esterase inhibitor functional activity:** 116.6% (70–130).
 
-Order all three, or confirm the package explicitly contains all three. “C1 testing” alone is ambiguous; C1q is not a substitute for C1-inhibitor quantity/function. Dmytro confirms C1/C4 testing was omitted despite appearing on the earlier planned list. This supersedes the earlier possible-pending status. These investigate C1-inhibitor-related angioedema; abnormal findings may require confirmation, and normal results do not exclude every form of angioedema. [WAO/EAACI guideline](https://pmc.ncbi.nlm.nih.gov/articles/PMC9023902/).
+All three verified September 25 in the [consolidated report](2026-09-19-dila-consolidated-results-released-2026-09-25.pdf), order September 19 10:56; separate collection time absent. Earlier omission applied to September 14 testing. Normal results argue against C1-inhibitor-deficient/dysfunctional hereditary angioedema, but do not exclude every form of angioedema. [WAO/EAACI guideline](https://pmc.ncbi.nlm.nih.gov/articles/PMC9023902/).
 
 - [ ] **Acute serum tryptase during an episode:** as soon as feasible after emergency treatment starts; ideally another sample at 1–2 hours from symptom onset, no later than 4 hours. Never delay treatment to collect it. Record onset, sampling and treatment times. If only one acute draw is feasible, prioritize the 1–2-hour window. A late sample cannot retrospectively capture a missed peak.
-- [ ] **Baseline serum tryptase:** at least 24 hours after resolution of the acute episode, for comparison with the acute sample. If episodes recur too frequently to identify that window, record the symptoms/timing and treat an interim result as provisional, with later repeat if needed. Record steroid exposure; do not stop treatment to obtain a baseline. Historical steroid/baseline caveat in HEALTH_CONTEXT remains applicable. A normal acute result does not exclude anaphylaxis. [Sampling guidance](https://www.nwlpathology.nhs.uk/test/tryptase-mast-cell-tryptase-serum/).
+- [x] **Later tryptase result retrieved September 24:** **8.44 µg/L**, reference <11, ImmunoCAP, September 19 order 10:56; separate collection time absent. [Original](2026-09-19-dila-tryptase.pdf). Potential baseline comparator; symptom/recovery timing and exact treatment at sampling unresolved. Not proof of the separately planned September 24 draw.
+- [ ] **Confirm baseline conditions / repeat if needed:** at least 24 hours after resolution of the acute episode, for comparison with the acute sample. If episodes recur too frequently to identify that window, record the symptoms/timing and treat an interim result as provisional, with later repeat if needed. Record steroid exposure; do not stop treatment to obtain a baseline. Historical steroid/baseline caveat in HEALTH_CONTEXT remains applicable. A normal acute result does not exclude anaphylaxis. [Sampling guidance](https://www.nwlpathology.nhs.uk/test/tryptase-mast-cell-tryptase-serum/).
 
 ## Additional focused follow-up
 
