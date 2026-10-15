@@ -1,8 +1,22 @@
 # Lada — health context and history
 
-Last updated: **2 October 2026**. Source coverage: **11 August–2 October 2026**, including recollections of lifelong symptoms and events from 2021 onward. This is a working personal history for continuity, not a diagnostic report or a medication instruction sheet. Current status means **last reported in the source**, not independently checked today.
+Last updated: **15 October 2026**. Source coverage: **11 August–15 October 2026**, including recollections of lifelong symptoms and events from 2021 onward. This is a working personal history for continuity, not a diagnostic report or a medication instruction sheet. Current status means **last reported in the source**, not independently checked today.
 
 ## Start here
+
+**Current priority — eating pain and insufficient intake:** Read the [focused eating and nutrition handover](docs/2026-10-15-eating-pain-nutrition-handover.md) first for the dated eating history, food experiences, currently reported medicines, trial ideas and key unknowns. It is an assistant-prepared working summary for Lada and her agent, not a diagnosis or evidence that proposed foods or drinks have been tolerated.
+
+**October 15 — near-zero food intake with renewed post-meal pain; allergy/asthma generally quieter:** Dmytro reports roughly two weeks without new anaphylaxis, minimal seasonal allergy and asthma largely subsided. Around October 13, Lada felt familiar early-reaction discomfort near her apartment with ragweed reportedly nearby; evening tongue itching resolved by the following day, without a confirmed new anaphylaxis episode. Around October 12 she tried eating twice daily; persistent abdominal pain/discomfort followed for about two days, with almost no food. A couple of crackers on October 14 again provoked pain. She continues Proxium **in the morning** and takes oral iron; no ibuprofen. Dmytro has **ordered a nutrition drink**, exact product not yet confirmed; use and tolerance not reported. Current medicine doses and iron formulation unknown. Pain location, vomiting, bowel function, fluid intake and weight remain unknown. [U20261015-01](sources/updates-2026-10-15.md#u20261015-01--allergyasthma-respite-ragweed-associated-symptoms-and-severe-food-limited-abdominal-pain), [U20261015-02](sources/updates-2026-10-15.md#u20261015-02--nutrition-drink-ordered-eating-strategy-discussion).
+
+**October 5 — August rupture episode settled on its own:** Dmytro says the August episode resolved after about one week, answering “no” to the question about bleeding/hospital treatment/surgery; no hospital treatment/surgery reported for that episode, and no imaging-confirmed exclusion of bleeding inferred. Anaemia recollection checked against originals: September 14 Hb **112 g/L**, low MCV and iron/TSAT; September 26 Hb **121 g/L**, just within range, with persistent low MCH/high RDW. Earlier major bleeding/surgery remains separate. [U20261005-05](sources/updates-2026-10-05.md#u20261005-05--august-episode-resolved-spontaneously-anaemia-records-rechecked).
+
+**October 5 — August cyst rupture and recurrent bleeding history clarified:** Dmytro reports a cyst rupture in **August 2026**, plus several bleeding episodes “this or last year” (2026/2025 uncertain). Exact sites/dates/severity of those bleeds and bleeding severity at the August rupture are not newly specified; events may overlap the existing surgical history. Retain the earlier ovarian-rupture-without-cyst report as potentially describing different episodes. No current bleed inferred. [U20261005-04](sources/updates-2026-10-05.md#u20261005-04--august-cyst-rupture-and-several-prior-bleeding-episodes).
+
+**October 5 — current emotional distress and anxiety:** Lada, via Dmytro, reports being very anxious, feeling bad, that “her soul hurts”, and not wanting to do anything. No new diagnostic assessment or medication start supplied. [U20261005-03](sources/updates-2026-10-05.md#u20261005-03--current-anxiety-and-emotional-distress).
+
+**October 5 — ovarian rupture without a cyst clarified:** Lada, via Dmytro, describes “разрив яичников без кисты” (ovarian rupture without a cyst). Use this latest account rather than the blanket description of her bleeding/rupture history as cyst rupture. Specific episodes/laterality and operative diagnosis remain unspecified; preserve earlier reported cyst operations separately. No new acute event or generalized bleeding disorder inferred. [U20261005-02](sources/updates-2026-10-05.md#u20261005-02--ovarian-rupture-without-a-cyst-latest-patient-account).
+
+**October 5 — psychiatry medication discussion planned:** Dmytro reports a discussion today about medication for depression and requests comparison of antidepressant bleeding risks given Lada’s history. No completed consultation, new prescription/use or new bleeding-status information supplied. [U20261005-01](sources/updates-2026-10-05.md#u20261005-01--psychiatry-medication-discussion-planned).
 
 **October 2 — gynecologist advice clarified:** Dmytro explicitly reports that her gynecologist advised avoiding SSRIs; relayed advice, not independently established contraindication. Added to current handover; personal treatment-goal statements removed at user request. [U20261002-04](sources/updates-2026-10-02.md#u20261002-04--factual-handover-edit-and-gynecologist-advice-clarified).
 
@@ -785,6 +799,7 @@ Store documents for reading, printing and sharing in [`docs/`](docs/). This inde
 
 | Document date | File | What it contains and what it means |
 | --- | --- | --- |
+| 2026-10-15 | [Focused eating and nutrition handover](docs/2026-10-15-eating-pain-nutrition-handover.md) | Current English working summary for Lada and her agent: dated eating/pain history, rough intake and weight evidence, food experiences, relevant reported medicines, nutrition drink comparison and ideas discussed for small soft/liquid trials. Dmytro reports a drink ordered; exact product, use and tolerance pending. Patient/partner reports and assistant-synthesized options are distinguished from original test records, diagnoses and treatment. |
 | 2026-10-02 | [Completed second-opinion consent forms](docs/2026-10-02-lada-consent-forms-signed.pdf) · [Original blank package](docs/2026-10-02-consent-forms-original.pdf) | Newly supplied three-page package completed using previously supplied ID details/signature, with October 2 patient dates. Original preserved unchanged; all completed pages visually checked. Professional/clinic fields blank; not submitted. Dmytro reconfirms yesterday's visit and today's planned second opinion, not today's attendance. CBT20261002-01. |
 | 2026-10-02 | [Current psychiatrist handover PDF](docs/2026-10-02-psychiatrist-uk.pdf) · [Editable notes](docs/2026-10-02-psychiatrist-uk.md) | Current two-page Ukrainian neutral summary of observations: longstanding fear of inactivity, revised summer/mid-August chronology, sleep/pain/appetite/fatigue, physical history and thyroid results, earlier medication trials, gynecologist advice to avoid SSRIs and physical-health medication list. Updated U20261002-05: all October 1 psychiatrist-visit references, its questionnaires/new prescriptions and first-person narration removed for independent assessment. Reported use remains distinct from other prescriptions. Both pages visually checked. Earlier handovers and original clinician record preserved. |
 | 2026-10-01 | [Psychiatry conclusion original](docs/2026-10-01-psychiatrist-conclusion-original.docx) | Original supplied clinician report with diagnosis, scales and medication recommendations: trazodone 50 mg, pregabalin 75 mg, hydroxyzine 25 mg in evening/night. Prescription is not proof of use; internal discrepancies detailed in U20261001-05. |
@@ -961,6 +976,20 @@ Original: [Анафилаксия рекомендации — shared ChatGPT co
 Only these six attachments are saved and independently read in this import. Other image contents remain represented by placeholders and explicitly attributed earlier AI transcriptions. The text archive excludes tool traces and internal reasoning; raw extraction files remain in `sources/` for reproducibility.
 
 ## Update log
+
+- **2026-10-15:** Made eating pain and nutrition the first linked priority in Start here; created/indexed a focused handover for Lada and her agent. Recorded Dmytro's nutrition-drink order without inferring product identity, administration or response; distinguished dietary trial ideas from observed events (U20261015-02).
+
+- **2026-10-15:** Recorded partner-relayed improvement in allergy/asthma, transient ragweed-associated discomfort/tongue itching, and renewed severe post-meal pain with almost no intake for about two days. Clarified morning Proxium and oral iron, and no ibuprofen; corrected implication that morning Proxium without food is incorrect use. No new anaphylaxis, food allergy or gastritis diagnosis inferred (U20261015-01).
+
+- **2026-10-05:** Recorded spontaneous one-week resolution of August rupture symptoms without reported hospital treatment/surgery; visually rechecked original September 14/26 CBCs and September 14 iron studies to confirm prior anaemia and subsequent haemoglobin improvement, without attributing cause (U20261005-05).
+
+- **2026-10-05:** Recorded August 2026 cyst rupture and several bleeding episodes in uncertain year 2026/2025; preserved prior rupture-without-cyst clarification and avoided double-counting historical events (U20261005-04).
+
+- **2026-10-05:** Recorded current patient-reported anxiety, emotional pain and reduced desire to engage in activities, relayed by Dmytro; no new diagnosis or treatment inferred (U20261005-03).
+
+- **2026-10-05:** Corrected current rupture-history description to patient-reported ovarian rupture without a cyst; retained earlier cyst/surgical history and uncertainty about which dated episodes are superseded (U20261005-02).
+
+- **2026-10-05:** Recorded planned psychiatry medication discussion and request for bleeding-risk comparison; no new treatment or bleeding event inferred (U20261005-01).
 
 - **2026-10-02:** Completed and visually verified newly supplied second-opinion consent forms using existing ID/signature and today’s date; preserved original and prior-day forms and indexed both new PDFs. Second-opinion visit remains planned (CBT20261002-01).
 
